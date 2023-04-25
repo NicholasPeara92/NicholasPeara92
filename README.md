@@ -1,5 +1,7 @@
 # 💫 About Me:
-### Hi, how are you? 👋<br><br>- 😎 I'm a Full-stack junior developer with a passion for games and technologies.<br>- 📫 Shoot me an [Email](nicholas.peara@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/nicholas-peara-451010210/)<br><br>## 🌐 Socials:<br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nicholasp_92/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-peara-451010210/) 
+### Hi, how are you? 👋<br><br>- 😎 I'm a Full-stack junior developer with a passion for games and technologies.<br>- 📫 Shoot me an [Email](nicholas.peara@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/nicholas-peara-451010210/)<br><br>
+## 🌐 Socials:<br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nicholasp_92/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-peara-451010210/) 
 
 
 # 💻 Tech Stack:
