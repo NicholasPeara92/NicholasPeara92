@@ -14,5 +14,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NicholasPeara92&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=NicholasPeara92&icon=0&color=1)](https://visitcount.itsvg.in)
